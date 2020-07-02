@@ -7,33 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A7A0501424A8288800AC3B9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0501324A8288800AC3B9F /* AppDelegate.swift */; };
-		A7A0501624A8288800AC3B9F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0501524A8288800AC3B9F /* SceneDelegate.swift */; };
-		A7A0501824A8288800AC3B9F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0501724A8288800AC3B9F /* ViewController.swift */; };
-		A7A0501B24A8288800AC3B9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0501924A8288800AC3B9F /* Main.storyboard */; };
-		A7A0502024A8288A00AC3B9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0501E24A8288A00AC3B9F /* LaunchScreen.storyboard */; };
-		A7A0503724AC26D800AC3B9F /* Main.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = A7A0501924A8288800AC3B9F /* Main.storyboard */; };
-		A7A0503824AC26ED00AC3B9F /* LaunchScreen.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = A7A0501E24A8288A00AC3B9F /* LaunchScreen.storyboard */; };
-		A7A0503924AC26F400AC3B9F /* ios-cw-5-p2.app in Sources */ = {isa = PBXBuildFile; fileRef = A7A0501024A8288800AC3B9F /* ios-cw-5-p2.app */; };
-		A7A0503A24AC26FE00AC3B9F /* Info.plist in Sources */ = {isa = PBXBuildFile; fileRef = A7A0502124A8288A00AC3B9F /* Info.plist */; };
-		A7A0504324AD344C00AC3B9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0504124AD344C00AC3B9F /* Main.storyboard */; };
-		A7A0504524AD349600AC3B9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7A0504424AD349600AC3B9F /* Assets.xcassets */; };
+		A7A0505324AD355D00AC3B9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0505224AD355D00AC3B9F /* AppDelegate.swift */; };
+		A7A0505524AD355D00AC3B9F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0505424AD355D00AC3B9F /* SceneDelegate.swift */; };
+		A7A0505724AD355D00AC3B9F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0505624AD355D00AC3B9F /* ViewController.swift */; };
+		A7A0505A24AD355D00AC3B9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0505824AD355D00AC3B9F /* Main.storyboard */; };
+		A7A0505C24AD355D00AC3B9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7A0505B24AD355D00AC3B9F /* Assets.xcassets */; };
+		A7A0505F24AD355D00AC3B9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0505D24AD355D00AC3B9F /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A7A0501024A8288800AC3B9F /* ios-cw-5-p2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-cw-5-p2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A7A0501324A8288800AC3B9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A7A0501524A8288800AC3B9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A7A0501724A8288800AC3B9F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A7A0501A24A8288800AC3B9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A7A0501F24A8288A00AC3B9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A7A0502124A8288A00AC3B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A7A0504124AD344C00AC3B9F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = "../ios-cw-5-p2/ios-cw-5-p2/ios-cw-5-p2/Main.storyboard"; sourceTree = "<group>"; };
-		A7A0504424AD349600AC3B9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../ios-cw-5/ios-cw-5-p2/ios-cw-5-p2/ios-cw-5-p2/Assets.xcassets"; sourceTree = "<group>"; };
+		A7A0504F24AD355D00AC3B9F /* Final-XO-HW4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final-XO-HW4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7A0505224AD355D00AC3B9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A7A0505424AD355D00AC3B9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		A7A0505624AD355D00AC3B9F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A7A0505924AD355D00AC3B9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A7A0505B24AD355D00AC3B9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A7A0505E24AD355D00AC3B9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A7A0506024AD355D00AC3B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A7A0500D24A8288800AC3B9F /* Frameworks */ = {
+		A7A0504C24AD355D00AC3B9F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -43,73 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A7A0500724A8288800AC3B9F = {
+		A7A0504624AD355D00AC3B9F = {
 			isa = PBXGroup;
 			children = (
-				A7A0501224A8288800AC3B9F /* ios-cw-5-p2 */,
-				A7A0501124A8288800AC3B9F /* Products */,
+				A7A0505124AD355D00AC3B9F /* Final-XO-HW4 */,
+				A7A0505024AD355D00AC3B9F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A7A0501124A8288800AC3B9F /* Products */ = {
+		A7A0505024AD355D00AC3B9F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A7A0501024A8288800AC3B9F /* ios-cw-5-p2.app */,
+				A7A0504F24AD355D00AC3B9F /* Final-XO-HW4.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A7A0501224A8288800AC3B9F /* ios-cw-5-p2 */ = {
+		A7A0505124AD355D00AC3B9F /* Final-XO-HW4 */ = {
 			isa = PBXGroup;
 			children = (
-				A7A0504124AD344C00AC3B9F /* Main.storyboard */,
-				A7A0501324A8288800AC3B9F /* AppDelegate.swift */,
-				A7A0504424AD349600AC3B9F /* Assets.xcassets */,
-				A7A0501524A8288800AC3B9F /* SceneDelegate.swift */,
-				A7A0501724A8288800AC3B9F /* ViewController.swift */,
-				A7A0501924A8288800AC3B9F /* Main.storyboard */,
-				A7A0501E24A8288A00AC3B9F /* LaunchScreen.storyboard */,
-				A7A0502124A8288A00AC3B9F /* Info.plist */,
+				A7A0505224AD355D00AC3B9F /* AppDelegate.swift */,
+				A7A0505424AD355D00AC3B9F /* SceneDelegate.swift */,
+				A7A0505624AD355D00AC3B9F /* ViewController.swift */,
+				A7A0505824AD355D00AC3B9F /* Main.storyboard */,
+				A7A0505B24AD355D00AC3B9F /* Assets.xcassets */,
+				A7A0505D24AD355D00AC3B9F /* LaunchScreen.storyboard */,
+				A7A0506024AD355D00AC3B9F /* Info.plist */,
 			);
-			path = "ios-cw-5-p2";
+			path = "Final-XO-HW4";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A7A0500F24A8288800AC3B9F /* ios-cw-5-p2 */ = {
+		A7A0504E24AD355D00AC3B9F /* Final-XO-HW4 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7A0502424A8288A00AC3B9F /* Build configuration list for PBXNativeTarget "ios-cw-5-p2" */;
+			buildConfigurationList = A7A0506324AD355D00AC3B9F /* Build configuration list for PBXNativeTarget "Final-XO-HW4" */;
 			buildPhases = (
-				A7A0500C24A8288800AC3B9F /* Sources */,
-				A7A0500D24A8288800AC3B9F /* Frameworks */,
-				A7A0500E24A8288800AC3B9F /* Resources */,
+				A7A0504B24AD355D00AC3B9F /* Sources */,
+				A7A0504C24AD355D00AC3B9F /* Frameworks */,
+				A7A0504D24AD355D00AC3B9F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "ios-cw-5-p2";
-			productName = "ios-cw-5-p2";
-			productReference = A7A0501024A8288800AC3B9F /* ios-cw-5-p2.app */;
+			name = "Final-XO-HW4";
+			productName = "Final-XO-HW4";
+			productReference = A7A0504F24AD355D00AC3B9F /* Final-XO-HW4.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A7A0500824A8288800AC3B9F /* Project object */ = {
+		A7A0504724AD355D00AC3B9F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = "Jenaan Alshayji";
 				TargetAttributes = {
-					A7A0500F24A8288800AC3B9F = {
+					A7A0504E24AD355D00AC3B9F = {
 						CreatedOnToolsVersion = 11.5;
 					};
 				};
 			};
-			buildConfigurationList = A7A0500B24A8288800AC3B9F /* Build configuration list for PBXProject "ios-cw-5-p2 copy 2" */;
+			buildConfigurationList = A7A0504A24AD355D00AC3B9F /* Build configuration list for PBXProject "Final-XO-HW4" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,60 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = A7A0500724A8288800AC3B9F;
-			productRefGroup = A7A0501124A8288800AC3B9F /* Products */;
+			mainGroup = A7A0504624AD355D00AC3B9F;
+			productRefGroup = A7A0505024AD355D00AC3B9F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A7A0500F24A8288800AC3B9F /* ios-cw-5-p2 */,
+				A7A0504E24AD355D00AC3B9F /* Final-XO-HW4 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A7A0500E24A8288800AC3B9F /* Resources */ = {
+		A7A0504D24AD355D00AC3B9F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7A0502024A8288A00AC3B9F /* LaunchScreen.storyboard in Resources */,
-				A7A0504324AD344C00AC3B9F /* Main.storyboard in Resources */,
-				A7A0501B24A8288800AC3B9F /* Main.storyboard in Resources */,
-				A7A0504524AD349600AC3B9F /* Assets.xcassets in Resources */,
+				A7A0505F24AD355D00AC3B9F /* LaunchScreen.storyboard in Resources */,
+				A7A0505C24AD355D00AC3B9F /* Assets.xcassets in Resources */,
+				A7A0505A24AD355D00AC3B9F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A7A0500C24A8288800AC3B9F /* Sources */ = {
+		A7A0504B24AD355D00AC3B9F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7A0503A24AC26FE00AC3B9F /* Info.plist in Sources */,
-				A7A0503924AC26F400AC3B9F /* ios-cw-5-p2.app in Sources */,
-				A7A0503824AC26ED00AC3B9F /* LaunchScreen.storyboard in Sources */,
-				A7A0503724AC26D800AC3B9F /* Main.storyboard in Sources */,
-				A7A0501824A8288800AC3B9F /* ViewController.swift in Sources */,
-				A7A0501424A8288800AC3B9F /* AppDelegate.swift in Sources */,
-				A7A0501624A8288800AC3B9F /* SceneDelegate.swift in Sources */,
+				A7A0505724AD355D00AC3B9F /* ViewController.swift in Sources */,
+				A7A0505324AD355D00AC3B9F /* AppDelegate.swift in Sources */,
+				A7A0505524AD355D00AC3B9F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A7A0501924A8288800AC3B9F /* Main.storyboard */ = {
+		A7A0505824AD355D00AC3B9F /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A7A0501A24A8288800AC3B9F /* Base */,
+				A7A0505924AD355D00AC3B9F /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A7A0501E24A8288A00AC3B9F /* LaunchScreen.storyboard */ = {
+		A7A0505D24AD355D00AC3B9F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A7A0501F24A8288A00AC3B9F /* Base */,
+				A7A0505E24AD355D00AC3B9F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -178,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A7A0502224A8288A00AC3B9F /* Debug */ = {
+		A7A0506124AD355D00AC3B9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -238,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		A7A0502324A8288A00AC3B9F /* Release */ = {
+		A7A0506224AD355D00AC3B9F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -292,39 +280,35 @@
 			};
 			name = Release;
 		};
-		A7A0502524A8288A00AC3B9F /* Debug */ = {
+		A7A0506424AD355D00AC3B9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = "ios-cw-5-p2/Info.plist";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Final-XO-HW4/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.JAS.ios-cw-5-p2";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.JAS.Final-XO-HW4";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		A7A0502624A8288A00AC3B9F /* Release */ = {
+		A7A0506524AD355D00AC3B9F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = "ios-cw-5-p2/Info.plist";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Final-XO-HW4/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.JAS.ios-cw-5-p2";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.JAS.Final-XO-HW4";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -333,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7A0500B24A8288800AC3B9F /* Build configuration list for PBXProject "ios-cw-5-p2 copy 2" */ = {
+		A7A0504A24AD355D00AC3B9F /* Build configuration list for PBXProject "Final-XO-HW4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A7A0502224A8288A00AC3B9F /* Debug */,
-				A7A0502324A8288A00AC3B9F /* Release */,
+				A7A0506124AD355D00AC3B9F /* Debug */,
+				A7A0506224AD355D00AC3B9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A7A0502424A8288A00AC3B9F /* Build configuration list for PBXNativeTarget "ios-cw-5-p2" */ = {
+		A7A0506324AD355D00AC3B9F /* Build configuration list for PBXNativeTarget "Final-XO-HW4" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A7A0502524A8288A00AC3B9F /* Debug */,
-				A7A0502624A8288A00AC3B9F /* Release */,
+				A7A0506424AD355D00AC3B9F /* Debug */,
+				A7A0506524AD355D00AC3B9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A7A0500824A8288800AC3B9F /* Project object */;
+	rootObject = A7A0504724AD355D00AC3B9F /* Project object */;
 }
