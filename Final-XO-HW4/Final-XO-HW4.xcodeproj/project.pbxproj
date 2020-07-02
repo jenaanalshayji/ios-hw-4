@@ -13,6 +13,7 @@
 		A7A0505A24AD355D00AC3B9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0505824AD355D00AC3B9F /* Main.storyboard */; };
 		A7A0505C24AD355D00AC3B9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7A0505B24AD355D00AC3B9F /* Assets.xcassets */; };
 		A7A0505F24AD355D00AC3B9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7A0505D24AD355D00AC3B9F /* LaunchScreen.storyboard */; };
+		A7A0506724AD7B1F00AC3B9F /* backgroundsound.MOV in Resources */ = {isa = PBXBuildFile; fileRef = A7A0506624AD7B1E00AC3B9F /* backgroundsound.MOV */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A7A0505B24AD355D00AC3B9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7A0505E24AD355D00AC3B9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7A0506024AD355D00AC3B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7A0506624AD7B1E00AC3B9F /* backgroundsound.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = backgroundsound.MOV; path = ../../../../../../Desktop/backgroundsound.MOV; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A7A0505824AD355D00AC3B9F /* Main.storyboard */,
 				A7A0505B24AD355D00AC3B9F /* Assets.xcassets */,
 				A7A0505D24AD355D00AC3B9F /* LaunchScreen.storyboard */,
+				A7A0506624AD7B1E00AC3B9F /* backgroundsound.MOV */,
 				A7A0506024AD355D00AC3B9F /* Info.plist */,
 			);
 			path = "Final-XO-HW4";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7A0505F24AD355D00AC3B9F /* LaunchScreen.storyboard in Resources */,
+				A7A0506724AD7B1F00AC3B9F /* backgroundsound.MOV in Resources */,
 				A7A0505C24AD355D00AC3B9F /* Assets.xcassets in Resources */,
 				A7A0505A24AD355D00AC3B9F /* Main.storyboard in Resources */,
 			);

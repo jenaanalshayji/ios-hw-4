@@ -7,8 +7,11 @@
 //
 
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
+    
+    var player: AVAudioPlayer = AVAudioPlayer()
     
     @IBOutlet weak var b1: UIButton!
     @IBOutlet weak var b2: UIButton!
@@ -28,6 +31,22 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         buttons = [b1, b2, b3, b4, b5, b6, b7, b8, b9]
+        
+        super.viewDidLoad()
+        
+        
+        do
+        {
+            let audioPath = Bundle.main.path(forResource: "backgroundsound", ofType: "MOV")
+           
+            try player = AVAudioPlayer(contentsOf: NSURL(fileURLWithPath: audioPath!) as URL)
+        }
+        catch
+        {
+         
+        }
+        
+        player.play()
     }
     
     @IBAction func press(_ sender: UIButton) {
@@ -115,6 +134,7 @@ class ViewController: UIViewController {
     }
     
     
+  
 }
 
 
